@@ -1,5 +1,21 @@
-# Google-Data-Analytics-Capstone-Case-Study-2
-Case Study: How Can a Wellness Technology Company Play It Smart?
-Hello everyone! This whole notebook illustrates my approach on the Google Data Analytics Case Study Project: Case Study 2: How Can a Wellness Technology Company Play It Smart?
+# Google Data Analytics Captone Complete a case study #
 
-To solve the required study, I will go through every phase of Data analysis i.e, Ask,Prepare,Process,Analyze,Share and Act
+# Bellabeat case study #
+
+Background:
+Bellabeat is a high-tech manufacturer of beautifully-designed health-focused smart products for women since 2013. Inspiring and empowering women with knowledge about their own health and habits, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for females.
+
+The co-founder and Chief Creative Officer, Urška Sršen is confident that an analysis of non-Bellebeat consumer data (ie. FitBit fitness tracker usage data) would reveal more opportunities for growth.
+
+Business Task:
+Analyze FitBit Fitness Tracker App data to gain insights into how consumers are using the FitBit app and discover trends and insights for Bellabeat marketing team.
+
+Business Objectives:
+What are the trends identified?
+How could these trends apply to Bellabeat customers?
+How could these trends help influence Bellabeat marketing strategy?
+Tools:
+Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
+
+Data Set:
+The data set is publicly available on Kaggle.
