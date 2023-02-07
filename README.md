@@ -1,6 +1,6 @@
 # Google Data Analytics Captone Complete a case study #
 
-# Bellabeat case study #
+# Bellabeat Fitness Tracking App Analysis #
 
 Background:
 
